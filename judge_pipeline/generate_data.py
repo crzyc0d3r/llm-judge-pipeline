@@ -1,7 +1,6 @@
 """Stage 1-2: Domain decomposition + synthetic example generation.
 
-Demo domain (from the DDODS issue, 2026-07-01): an insurance RAG grounding
-evaluator. Each example is (context, answer) and the judge must decide whether
+Demo domain: an insurance RAG grounding evaluator. Each example is (context, answer) and the judge must decide whether
 the answer is GROUNDED in the context or UNGROUNDED (hallucinated).
 
 By default this generates data offline from templates so the demo runs with

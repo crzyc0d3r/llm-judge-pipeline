@@ -3,7 +3,7 @@
 Several independent judges score each synthetic example; examples where the
 judges cannot reach consensus are dropped, so the small model trains only on
 clean, agreed-upon labels. In production each judge would be a different LLM
-(the DDODS/PlurAI pipeline uses frontier models here, once, offline — the
+(the PlurAI pipeline uses frontier models here, once, offline — the
 whole point is that the expensive models label the training set, not every
 production request). This offline demo uses three heuristic judges standing
 in for LLM judges; plug in real models via OPENAI_API_KEY if desired.

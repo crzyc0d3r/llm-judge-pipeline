@@ -1,6 +1,6 @@
 """Stage 4: Train the small judge on the consensus-refined dataset.
 
-The real DDODS/PlurAI pipeline fine-tunes a small language model (SLM). To
+The real PlurAI pipeline fine-tunes a small language model (SLM). To
 keep this demo runnable on any laptop with no GPU or API key, the "small
 judge" is a TF-IDF + logistic-regression classifier over (context, answer)
 pairs — the drop-in seam for an SLM fine-tune is `build_model()`.
