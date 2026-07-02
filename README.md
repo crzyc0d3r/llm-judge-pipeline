@@ -1,6 +1,6 @@
 # Train Your Own Small LLM Judge (Insurance RAG Grounding Demo)
 
-Recreation of the hands-on from the [Daily Dose of Data Science](https://www.dailydoseofds.com) newsletter issue *"A Better Way To Build LLM-as-a-Judge Pipelines"* (2026-07-01), by Avi Chawla & Akshay Pachaar with the PlurAI team. All credit to DDODS and [PlurAI](https://github.com/plurai-ai/plurai-plugins).
+Creation of the hands-on from the [Daily Dose of Data Science](https://www.dailydoseofds.com) newsletter issue *"A Better Way To Build LLM-as-a-Judge Pipelines"* (2026-07-01), by Avi Chawla & Akshay Pachaar with the PlurAI team. All credit to DDODS and [PlurAI](https://github.com/plurai-ai/plurai-plugins).
 
 ## Why
 
